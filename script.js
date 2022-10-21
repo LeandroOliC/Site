@@ -1,0 +1,3 @@
+function bah (){
+alert("Bah!")
+}
